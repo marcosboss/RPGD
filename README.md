@@ -1,2 +1,2 @@
 # RPGD
-Um RPGD baseado no diablo 3
+Um RPG 3D baseado no diablo 3
